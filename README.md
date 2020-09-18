@@ -1,4 +1,4 @@
-### Hello World, I'm SVSS - aka [Sreenivas1323][website] 👋
+### Hello World 👋, I'm SVSS - aka [Sreenivas1323]
 
 ## I'm a Student, Designer, Freelancer, Developer,
 
