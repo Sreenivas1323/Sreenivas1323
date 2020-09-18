@@ -15,6 +15,14 @@
 [<img align="left" alt="sonthena1301 | 500px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/500px.svg" />][500px]
 
 ## <br />
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 
 <details>
 
