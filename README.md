@@ -14,7 +14,11 @@
 [<img align="left" alt="sonthena1301 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sonthena1301 | 500px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/500px.svg" />][500px]
 
-<br />
+## <br />
+
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Sreenivas1323's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sreenivas1323&show_icons=true&hide_border=true" />
 <br />
 
 </details>
