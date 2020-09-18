@@ -16,6 +16,8 @@
 
 ## <br />
 
+<details>
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Sreenivas1323's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sreenivas1323&show_icons=true&hide_border=true" />
