@@ -28,6 +28,8 @@
 <details>
   <summary>:zap: My Activity </summary>
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#591](https://github.com/chakra-ui/chakra-ui/issues/591) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+<!--END_SECTION:activity-->
 </details>
  
 
