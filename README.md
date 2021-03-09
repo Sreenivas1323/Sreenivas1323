@@ -3,7 +3,7 @@
 ## I'm a Student, Designer, Freelancer, Developer,
 
 - 🌱 I’m a fast learner 🤣
-- 🥅 2020 Goals: To update my Github Repo!
+- 🥅 2021 Goals: To update my Github Repo!
 - 👯 I’m up collaborations with other content creators
 - ⚡ React is Fun!
 
